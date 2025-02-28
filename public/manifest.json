@@ -1,0 +1,16 @@
+{
+  "name": "Linkfolio",
+  "short_name": "Linkfolio",
+  "description": "Organize Your Digital World",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}
